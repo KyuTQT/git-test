@@ -1,2 +1,3 @@
 # git-test
 This is my first github repo! This is the beginning of my journey...
+Hello fellow Odin students! Nice to meet you.~
